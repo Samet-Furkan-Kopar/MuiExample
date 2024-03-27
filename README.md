@@ -16,9 +16,9 @@ To get started with the project, follow these steps:
 ## Screenshots:
 Below are screenshots of different screens within the project:
 
-![Message Screen](./public/images/image.png)
+<!-- ![Message Screen](./public/images/image.png)
 
-![Message Screen](./public/images/image2.png)
+![Message Screen](./public/images/image2.png) -->
 
 
 # Social-Media Project
